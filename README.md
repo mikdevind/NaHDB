@@ -29,7 +29,7 @@ pip install NaHDB
 ### 🟦 Node.js
 Salin file `NaHDB.js` ke dalam proyek Anda. atau
 ```bash
-npm install NaHDB
+npm install nahdb
 ```
 
 ### 🐘 PHP
